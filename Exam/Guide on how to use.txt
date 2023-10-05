@@ -8,4 +8,5 @@
 8.Click browse file then go to the location of the Folder Exam then double click the login_register.sql
 9. At the address bar type http://localhost/Exam/login.php 
 10. You can now access the login page and from there you can click Register here to access the Registration page.
+11. After Registering you can now login and create a new post you can also edit/update and delete a post.
 
