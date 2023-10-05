@@ -1,0 +1,11 @@
+1. You need to have a xampp( I used the latest version).
+2.Put the folder 'Exam' inside the folder of htdocs on the directory of xampp.
+3. Open xampp and start Apache and MySQL.
+4.Open your preferred Web Browser(Google Chrome,Mozilla)
+5.Type on the address bar http://localhost/phpmyadmin/
+6.click new at the left tab then make a database with the name of login_register
+7.after creating the database click login_register then click Import at the upper top tab.
+8.Click browse file then go to the location of the Folder Exam then double click the login_register.sql
+9. At the address bar type http://localhost/Exam/login.php 
+10. You can now access the login page and from there you can click Register here to access the Registration page.
+
